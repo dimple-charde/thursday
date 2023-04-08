@@ -1,0 +1,79 @@
+[33mcommit f3ca67bd357a1a5f04df7f5e647de6a8ad2262cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: manjiri <manjiri@gmail.com>
+Date:   Fri Apr 7 15:23:57 2023 +0000
+
+    example file
+
+[33mcommit da40560425ad839a32edacd2a93a706ab5fbf5d4[m
+Merge: c1544f2 508bd23
+Author: manjiri <manjiri@gmail.com>
+Date:   Fri Apr 7 15:21:44 2023 +0000
+
+    conflict resolve
+
+[33mcommit 508bd23ea2c543163e16ddb03df52dab4c75e9a5[m[33m ([m[1;32mmastercopy[m[33m)[m
+Author: manjiri <manjiri@gmail.com>
+Date:   Fri Apr 7 15:18:31 2023 +0000
+
+    commit from mastercopy
+
+[33mcommit c1544f2e1ccdd8e30a383b0c698180eba30d9f04[m
+Author: manjiri <manjiri@gmail.com>
+Date:   Fri Apr 7 15:17:07 2023 +0000
+
+    rajput
+
+[33mcommit e993f8ce41588faf7f71dad3fece94c574bdf246[m
+Author: manjiri <manjiri@gmail.com>
+Date:   Fri Apr 7 04:13:17 2023 +0000
+
+    second code of client done
+
+[33mcommit f9100e9662c95a940e498fcfa71d3078f8226242[m
+Author: manjiri <manjiri@gmail.com>
+Date:   Fri Apr 7 04:08:03 2023 +0000
+
+    demofile
+
+[33mcommit 51908b8f4c7ec56ad8ecbd6ee9fcc56844184290[m
+Merge: 8ee1941 c606834
+Author: manjiri <manjiri@gmail.com>
+Date:   Fri Apr 7 03:51:45 2023 +0000
+
+    conflict resplve
+
+[33mcommit 8ee19419a8e6346161093e2c5c31b3e274e38ac7[m
+Author: manjiri <manjiri@gmail.com>
+Date:   Fri Apr 7 03:45:56 2023 +0000
+
+    commit from file2 beanch master
+
+[33mcommit c606834cde75d0e48f0e742cd3542c8d9626bf10[m
+Author: manjiri <manjiri@gmail.com>
+Date:   Fri Apr 7 03:42:42 2023 +0000
+
+    commit from file2
+
+[33mcommit bae6529f28e669732bdb22619b64dbf1466b6086[m
+Author: manjiri <manjiri@gmail.com>
+Date:   Fri Apr 7 03:40:00 2023 +0000
+
+    commit from master
+
+[33mcommit cbb1045622a907070144abad4c9c1138cbf85323[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: manjiri <manjiri@gmail.com>
+Date:   Thu Apr 6 15:13:06 2023 +0000
+
+    first commit
+
+[33mcommit 489700a2c8c360dd6a92b85da0a7c34c96d11314[m
+Author: ekta <ekta@gmail.com>
+Date:   Thu Apr 6 15:02:31 2023 +0000
+
+    my first commit as ekta
+
+[33mcommit 90a5a436aeff74d92306c3aa6583782732e8ca8c[m
+Author: manjiri <manjiri@gmail.com>
+Date:   Thu Apr 6 14:51:19 2023 +0000
+
+    first commit as manjiri
